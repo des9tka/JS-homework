@@ -16,7 +16,7 @@ let btrue = true;
 let bfalse = false;
 
 let mass = [grit, title, domen, count, n1, n2, n3, n4, n5, n6, btrue, bfalse];
-let SPACE = " ";
+const SPACE = " ";
 
 for (let n = 0; n != 12; n++) {
     console.log(mass[n])
@@ -37,8 +37,8 @@ let c = true;
 
 console.log(typeof (a), typeof (b), typeof (c));
 
-let p1 = prompt("Input your first name:");
+ p1 = prompt("Input your first name:");
 let p2 = prompt("Input your middle name:");
-let p3 = prompt("Input your age:");
+let p3 = +prompt("Input your age:");
 
 console.log(`${p1} ${p2} ${p3}`);
