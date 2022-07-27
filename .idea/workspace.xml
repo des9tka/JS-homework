@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="Innit">
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="changed mistake">
+      <change afterPath="$PROJECT_DIR$/hm2/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm2/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hm1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,15 +31,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\INTEL\IdeaProjects\js_homework\hm1" />
@@ -52,7 +53,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1658475263993</updated>
-      <workItem from="1658475265514" duration="3649000" />
+      <workItem from="1658475265514" duration="3976000" />
+      <workItem from="1658488232761" duration="13000" />
+      <workItem from="1658910464669" duration="5596000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -61,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658478638606</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="changed mistake">
+      <created>1658479102940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658479102940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Innit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Innit" />
+    <MESSAGE value="changed mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed mistake" />
   </component>
 </project>
