@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="add hm2">
-      <change afterPath="$PROJECT_DIR$/hm3/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm3/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="add hm3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <workItem from="1658488232761" duration="13000" />
       <workItem from="1658910464669" duration="5986000" />
       <workItem from="1659082487027" duration="74000" />
-      <workItem from="1659082565772" duration="7203000" />
+      <workItem from="1659082565772" duration="7531000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -80,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658916302094</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add hm3">
+      <created>1659089935676</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659089935676</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -101,6 +104,7 @@
     <MESSAGE value="Innit" />
     <MESSAGE value="changed mistake" />
     <MESSAGE value="add hm2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add hm2" />
+    <MESSAGE value="add hm3" />
+    <option name="LAST_COMMIT_MESSAGE" value="add hm3" />
   </component>
 </project>
