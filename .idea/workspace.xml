@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="fix mistake">
-      <change afterPath="$PROJECT_DIR$/hm4/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm4/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm4/main.js" afterDir="false" />
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hm4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hm4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,17 +31,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\INTEL\IdeaProjects\js_homework\hm1" />
@@ -66,7 +64,8 @@
       <workItem from="1659466973694" duration="791000" />
       <workItem from="1659528037855" duration="3676000" />
       <workItem from="1659604080426" duration="607000" />
-      <workItem from="1659604708235" duration="3460000" />
+      <workItem from="1659604708235" duration="3567000" />
+      <workItem from="1659615993019" duration="73000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -103,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659172667912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="hm4">
+      <created>1659608260894</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659608260894</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +132,8 @@
     <MESSAGE value="add hm2" />
     <MESSAGE value="add hm3" />
     <MESSAGE value="fix mistake" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix mistake" />
+    <MESSAGE value="hm4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm4" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
