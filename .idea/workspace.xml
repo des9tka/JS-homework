@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm4">
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="code compacted">
+      <change afterPath="$PROJECT_DIR$/hm5/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hm5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hm4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/hm4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
         <option value="JavaScript File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -65,7 +66,11 @@
       <workItem from="1659528037855" duration="3676000" />
       <workItem from="1659604080426" duration="607000" />
       <workItem from="1659604708235" duration="3567000" />
-      <workItem from="1659615993019" duration="73000" />
+      <workItem from="1659615993019" duration="121000" />
+      <workItem from="1659694455964" duration="8533000" />
+      <workItem from="1659778625677" duration="6260000" />
+      <workItem from="1659957736197" duration="3945000" />
+      <workItem from="1660044691325" duration="1499000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -109,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659608260894</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="code compacted">
+      <created>1659616106043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659616106043</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +145,8 @@
     <MESSAGE value="add hm3" />
     <MESSAGE value="fix mistake" />
     <MESSAGE value="hm4" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm4" />
+    <MESSAGE value="code compacted" />
+    <option name="LAST_COMMIT_MESSAGE" value="code compacted" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
