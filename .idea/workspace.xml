@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="code compacted">
-      <change afterPath="$PROJECT_DIR$/hm5/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm5/main.js" afterDir="false" />
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -11,17 +9,23 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -38,6 +42,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
@@ -70,7 +75,18 @@
       <workItem from="1659694455964" duration="8533000" />
       <workItem from="1659778625677" duration="6260000" />
       <workItem from="1659957736197" duration="3945000" />
-      <workItem from="1660044691325" duration="1499000" />
+      <workItem from="1660044691325" duration="2167000" />
+      <workItem from="1660126719657" duration="7000" />
+      <workItem from="1660126734933" duration="5389000" />
+      <workItem from="1660150828687" duration="49000" />
+      <workItem from="1660217390508" duration="1630000" />
+      <workItem from="1660306589525" duration="4173000" />
+      <workItem from="1660380655489" duration="85000" />
+      <workItem from="1660393123873" duration="3295000" />
+      <workItem from="1660486260050" duration="599000" />
+      <workItem from="1660560838708" duration="1432000" />
+      <workItem from="1660736617388" duration="8718000" />
+      <workItem from="1660815499938" duration="13124000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -121,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1659616106043</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hm5">
+      <created>1660046270376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1660046270376</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hm5">
+      <created>1660832668899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1660832668899</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +176,9 @@
     <MESSAGE value="fix mistake" />
     <MESSAGE value="hm4" />
     <MESSAGE value="code compacted" />
-    <option name="LAST_COMMIT_MESSAGE" value="code compacted" />
+    <MESSAGE value="hm5" />
+    <MESSAGE value="hm" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
