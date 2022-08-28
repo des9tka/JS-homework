@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm">
-      <change afterPath="$PROJECT_DIR$/hm8/main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hm8/main.js" afterDir="false" />
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm 8">
+      <change afterPath="$PROJECT_DIR$/miniProject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/miniProject/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +24,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -45,6 +50,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/INTEL/IdeaProjects/demo practice&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
@@ -52,6 +58,9 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\INTEL\IdeaProjects\js_homework\miniProject" />
+      <recent name="C:\Users\INTEL\IdeaProjects\js_homework\hm9\first" />
+      <recent name="C:\Users\INTEL\IdeaProjects\js_homework\hm9\second" />
       <recent name="C:\Users\INTEL\IdeaProjects\js_homework\hm1" />
     </key>
   </component>
@@ -92,7 +101,14 @@
       <workItem from="1660844206794" duration="7000" />
       <workItem from="1661165783097" duration="2130000" />
       <workItem from="1661176568421" duration="831000" />
-      <workItem from="1661251331271" duration="13993000" />
+      <workItem from="1661251331271" duration="14043000" />
+      <workItem from="1661339496270" duration="7338000" />
+      <workItem from="1661416788994" duration="14782000" />
+      <workItem from="1661526522854" duration="3018000" />
+      <workItem from="1661589040648" duration="21901000" />
+      <workItem from="1661629478973" duration="94000" />
+      <workItem from="1661669092773" duration="22582000" />
+      <workItem from="1661709696903" duration="11718000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -164,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660832903782</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="hm 8">
+      <created>1661265602062</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1661265602062</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,7 +214,8 @@
     <MESSAGE value="code compacted" />
     <MESSAGE value="hm5" />
     <MESSAGE value="hm" />
-    <option name="LAST_COMMIT_MESSAGE" value="hm" />
+    <MESSAGE value="hm 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="hm 8" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

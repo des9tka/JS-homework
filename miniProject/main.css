@@ -1,0 +1,239 @@
+body,html {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: burlywood;
+}
+
+.titleNameDiv {
+    display: flex;
+    height: 40px;
+    background: cornsilk;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 10px 5px 10px;
+    border-radius: 15%;
+    font-size: 12px;
+}
+
+p {
+    color: saddlebrown;
+}
+
+.firstMainDiv {
+    border-radius: 5%;
+    background: saddlebrown;
+    width: 40%;
+    height: 100%;
+    display: flex;
+    box-sizing: border-box;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.wrapDiv {
+    background: darkgoldenrod;
+    width: 40%;
+    margin: 10px 10px 10px;
+    display: inline-block;
+    border-radius: 20%;
+    justify-content: space-evenly;
+}
+
+.btnDiv {
+    justify-content: center;
+    text-align: center;
+    border-radius: 16%;
+}
+
+.moreInfoBtn {
+    width: 75%;
+    margin-bottom: 10px;
+    background: cornsilk;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    color: brown;
+}
+
+.moreInfoBtn:hover {
+    background: brown;
+    color: cornsilk;
+}
+
+.wrapSecPage {
+    width: 100%;
+    height: 100%;
+}
+
+.standart {
+    background: cornsilk;
+    color: saddlebrown;
+}
+
+.secPageMainDiv {
+    justify-content: space-evenly;
+    background: saddlebrown;
+    width: 400px;
+    margin: auto;
+}
+
+.margin10 {
+    margin: 10px 10px;
+}
+
+.border {
+    border: 1px solid burlywood;
+    border-radius: 10%;
+}
+
+.secPageUserBtn {
+    width: 90%;
+    background: cornsilk;
+    color: brown;
+    border: 1px solid burlywood;
+    border-radius: 5%;
+}
+
+.secPageUserBtn:hover {
+    background: brown;
+    color: cornsilk;
+}
+.secPostA {
+    display: flex;
+    justify-content: center;
+}
+
+.contentCenter {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.allPosts {
+    width: 900px;
+    height: 40%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 5px;
+    position: relative;
+}
+
+.oneOfThePosts {
+    margin: 5px;
+    width: 145px;
+    text-align: center;
+    padding: 5px;
+    box-sizing: border-box;
+    height: 15vh;
+    background: darkgoldenrod;
+    border-radius: 10%;
+    border: 1px solid saddlebrown;
+}
+
+.postTitle {
+    height: 65%;
+    font-size: 10px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: saddlebrown;
+    color: cornsilk;
+}
+
+.postBtn {
+    background: saddlebrown;
+    color: cornsilk;
+    margin: 3px;
+    border-radius: 5%;
+    border: 1px solid darkorange;
+}
+
+.postBtn:hover{
+    background: cornsilk;
+    color: darkgoldenrod;
+}
+
+.postInfoDiv {
+    border: 1px solid black;
+    border-radius: 5%;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 15px;
+    background: saddlebrown;
+}
+
+.postCommentsDiv {
+    border: 1px solid black;
+    width: 650px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-radius: 5%;
+    background: saddlebrown;
+}
+
+.commentDiv {
+    border: 1px solid black;
+    width: 200px;
+    margin: 5px;
+    border-radius: 14%;
+    box-sizing: border-box;
+    background: chocolate;
+}
+
+.postTitleComment {
+    border: 1px solid black;
+    border-radius: 30%;
+    padding: 5px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+    font-size: 12px;
+    margin-top: 5px;
+    background: saddlebrown;
+    color: cornsilk;
+}
+
+.postBodyComment {
+    padding: 5px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+}
+
+.postUserId {
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5%;
+    background: sandybrown;
+}
+
+.postId {
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5%;
+    background: sandybrown;
+}
+
+.postTitle {
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5%;
+    background: sandybrown;
+    color: black;
+    font-size: 16px;
+}
+
+.postContent {
+    margin: 5px;
+    border: 1px solid black;
+    border-radius: 5%;
+    background: sandybrown;
+}
