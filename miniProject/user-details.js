@@ -68,8 +68,8 @@ fetch(`https://jsonplaceholder.typicode.com/users/${id}`)
 
                              let postTitle = document.createElement("div");
                              postTitle.innerText = post.title;
-                             postTitle.className = `postTitle`;
-                             postTitle.style.fontSize = `12px`;
+                             postTitle.className = `postTitleDetails`;
+
 
                              let postBtn = document.createElement("button");
                              postBtn.innerText = `Post details`;

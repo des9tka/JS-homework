@@ -7,54 +7,56 @@ body,html {
 
 .titleNameDiv {
     display: flex;
-    height: 40px;
-    background: cornsilk;
+    height: 60%;
+    background: cadetblue;
     justify-content: center;
     text-align: center;
     align-items: center;
     margin: 10px 5px 10px;
-    border-radius: 15%;
-    font-size: 12px;
+    border-radius: 25px;
+    border: 1px solid black;
 }
 
 p {
-    color: saddlebrown;
+    color: black;
 }
 
 .firstMainDiv {
-    border-radius: 5%;
-    background: saddlebrown;
-    width: 40%;
+    border-radius: 25px;
+    background: cornflowerblue;
+    width: 30%;
     height: 100%;
     display: flex;
     box-sizing: border-box;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    border: 1px solid midnightblue;
 }
 
 .wrapDiv {
-    background: darkgoldenrod;
+    background: bisque;
     width: 40%;
     margin: 10px 10px 10px;
     display: inline-block;
     border-radius: 20%;
     justify-content: space-evenly;
+    border: 1px solid midnightblue;
 }
 
 .btnDiv {
     justify-content: center;
     text-align: center;
-    border-radius: 16%;
+    border-radius: 25px;
 }
 
 .moreInfoBtn {
-    width: 75%;
-    margin-bottom: 10px;
-    background: cornsilk;
+    width: 60%;
+    margin-bottom: 15%;
+    background: lightskyblue;
     border: none;
     cursor: pointer;
     border-radius: 5px;
-    color: brown;
+    color: black;
 }
 
 .moreInfoBtn:hover {
@@ -68,15 +70,17 @@ p {
 }
 
 .standart {
-    background: cornsilk;
-    color: saddlebrown;
+    background: cadetblue;
+    color: black;
 }
 
 .secPageMainDiv {
     justify-content: space-evenly;
-    background: saddlebrown;
+    background: darkslategrey;
     width: 400px;
     margin: auto;
+    padding: 5px;
+    border-radius: 20px;
 }
 
 .margin10 {
@@ -84,21 +88,22 @@ p {
 }
 
 .border {
-    border: 1px solid burlywood;
-    border-radius: 10%;
+    border: 1px solid bisque;
+    border-radius: 25px;
 }
 
 .secPageUserBtn {
     width: 90%;
-    background: cornsilk;
-    color: brown;
+    background: lightskyblue;
+    color: black;
     border: 1px solid burlywood;
-    border-radius: 5%;
+    border-radius: 25px;
 }
 
 .secPageUserBtn:hover {
     background: brown;
     color: cornsilk;
+    cursor: pointer;
 }
 .secPostA {
     display: flex;
@@ -112,44 +117,48 @@ p {
 }
 
 .allPosts {
-    width: 900px;
+    width: 50%;
     height: 40%;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    margin: 5px;
-    position: relative;
+    margin: auto;
 }
 
 .oneOfThePosts {
     margin: 5px;
-    width: 145px;
+    width: 18%;
     text-align: center;
     padding: 5px;
     box-sizing: border-box;
-    height: 15vh;
-    background: darkgoldenrod;
+    height: 10vh;
+    background: cornflowerblue;
     border-radius: 10%;
-    border: 1px solid saddlebrown;
+    border: 1px solid black;
 }
 
-.postTitle {
-    height: 65%;
-    font-size: 10px;
+.postTitleDetails {
+    height: 70%;
+    width: 95%;
     text-align: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    background: saddlebrown;
-    color: cornsilk;
+    color: black;
+    margin: auto;
+    background: lightskyblue;
+    border-radius: 10%;
+    border: 1px solid black;
+    font-size: 80%;
 }
 
 .postBtn {
-    background: saddlebrown;
+    background: darkslategray;
     color: cornsilk;
-    margin: 3px;
-    border-radius: 5%;
-    border: 1px solid darkorange;
+    margin: 5px;
+    border-radius: 25px;
+    border: 1px solid midnightblue;
+    cursor: pointer;
 }
 
 .postBtn:hover{
@@ -159,43 +168,44 @@ p {
 
 .postInfoDiv {
     border: 1px solid black;
-    border-radius: 5%;
-    width: 300px;
+    border-radius: 25px;
+    width: 50%;
+    height: 20vh;
     text-align: center;
     margin: auto;
-    margin-bottom: 15px;
-    background: saddlebrown;
+    background: cornflowerblue;
 }
 
 .postCommentsDiv {
+    margin: 2% auto;
     border: 1px solid black;
     width: 650px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    border-radius: 5%;
-    background: saddlebrown;
+    border-radius: 25px;
+    background: darkslategray;
 }
 
 .commentDiv {
     border: 1px solid black;
     width: 200px;
     margin: 5px;
-    border-radius: 14%;
+    border-radius: 25px;
     box-sizing: border-box;
-    background: chocolate;
+    background: cornflowerblue;
 }
 
 .postTitleComment {
     border: 1px solid black;
-    border-radius: 30%;
+    border-radius: 25px;
     padding: 5px;
     width: 80%;
     text-align: center;
-    margin: auto;
+    margin-left: 5%;
+    margin-top: 1%;
     font-size: 12px;
-    margin-top: 5px;
-    background: saddlebrown;
+    background: darkslategray;
     color: cornsilk;
 }
 
@@ -205,35 +215,42 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-    color: black;
+    color: bisque;
 }
 
 .postUserId {
-    margin: 5px;
+    margin: 2%;
     border: 1px solid black;
-    border-radius: 5%;
-    background: sandybrown;
+    border-radius: 25px;
+    background: darkslategrey;
+    color: aliceblue;
 }
 
 .postId {
-    margin: 5px;
+    margin:2%;
     border: 1px solid black;
-    border-radius: 5%;
-    background: sandybrown;
+    border-radius: 25px;
+    background: darkslategrey;
+    color: aliceblue;
 }
 
 .postTitle {
-    margin: 5px;
+    margin: 2%;
     border: 1px solid black;
-    border-radius: 5%;
-    background: sandybrown;
-    color: black;
+    border-radius: 25px;
+    background: darkslategrey;
     font-size: 16px;
+    color: aliceblue;
 }
 
 .postContent {
     margin: 5px;
     border: 1px solid black;
-    border-radius: 5%;
-    background: sandybrown;
+    border-radius: 25px;
+    background: darkslategrey;
+    height: 50%;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    color: aliceblue;
 }
