@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="eventLoop">
+    <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/miniProject/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/miniProject/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/miniProject/user-details.js" beforeDir="false" afterPath="$PROJECT_DIR$/miniProject/user-details.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +106,7 @@
       <workItem from="1661940739713" duration="34000" />
       <workItem from="1661940818195" duration="322000" />
       <workItem from="1661969534967" duration="2258000" />
-      <workItem from="1662014647701" duration="9222000" />
+      <workItem from="1662014647701" duration="10569000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
@@ -193,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662016621812</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fixed">
+      <created>1662036678753</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662036678753</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +228,8 @@
     <MESSAGE value="hm" />
     <MESSAGE value="hm 8" />
     <MESSAGE value="eventLoop" />
-    <option name="LAST_COMMIT_MESSAGE" value="eventLoop" />
+    <MESSAGE value="fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
