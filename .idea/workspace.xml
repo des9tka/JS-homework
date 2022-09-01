@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e162afda-c5f1-42a2-914b-8910aeb9b4a3" name="Changes" comment="hm 8">
-      <change afterPath="$PROJECT_DIR$/miniProject/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/miniProject/user-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventLoops/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eventLoops/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -50,10 +45,10 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;js.last.introduce.type&quot;: &quot;LET&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/INTEL/IdeaProjects/demo practice&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/intellij/java_script&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -109,6 +104,10 @@
       <workItem from="1661629478973" duration="94000" />
       <workItem from="1661669092773" duration="22582000" />
       <workItem from="1661709696903" duration="11718000" />
+      <workItem from="1661940739713" duration="34000" />
+      <workItem from="1661940818195" duration="322000" />
+      <workItem from="1661969534967" duration="2258000" />
+      <workItem from="1662014647701" duration="1791000" />
     </task>
     <task id="LOCAL-00001" summary="Innit">
       <created>1658478638606</created>
